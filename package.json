@@ -1,10 +1,14 @@
 {
   "name": "react-w3cvalidator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "./lib/W3CValidator.js",
   "module": "./src/W3CValidator.js",
   "homepage": "https://github.com/emyk/react-W3CValidator",
+  "files": [
+    "lib",
+    "src"
+  ],
   "devDependencies": {
     "@babel/cli": "^7.12.10",
     "react-scripts": "4.0.1",
